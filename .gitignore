@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+.idea
+Amazon_files
+Lib
+Scripts
+practice1.py
+pyvenv.cfg
